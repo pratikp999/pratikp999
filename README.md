@@ -22,5 +22,5 @@ Currently based in Pune, looking to contribute to the next generation of collabo
 
 ---
 ### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/pratikpatil999/) 
+* **LinkedIn:** [https://www.linkedin.com/in/pratikpatil999/](https://www.linkedin.com/in/pratikpatil999/) 
 * **Location:** Pune, India
