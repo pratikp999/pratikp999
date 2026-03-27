@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Pratik Patil 
+Electronics Engineer | AI/ML & Perception Enthusiast
 
-<!--
-**pratikp999/pratikp999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in the intersection of Computer Vision and Robotic Hardware. I build Python-based perception pipelines while maintaining a deep understanding of the underlying embedded systems and multilayer PCB design.
 
-Here are some ideas to get you started:
+🚀 Core Focus
+Perception: Real-time object detection and recognition (YOLO, OpenCV).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hardware: Multilayer DAQ PCB design and Signal Integrity.
+
+Data: Automated pipelines for industrial ML models.
+
+Currently based in Pune, looking to contribute to the next generation of collaborative robotics.
